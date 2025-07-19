@@ -19,6 +19,11 @@ def generate_excel_report(results, filename):
     """Generate an Excel report for all employees."""
     import pandas as pd
     df = pd.DataFrame(results)
+    # Ensure 'ID' column is numeric and Arrow-compatible
+    if 'ID' in df.columns:
+        df['ID'] = pd.to_numeric(df['ID'], errors='coerce')
+        df = df.dropna(subset=['ID'])
+        df['ID'] = df['ID'].astype(int)
     df.to_excel(filename, index=False)
 """
 Salary slip and report generation for salary prediction system.

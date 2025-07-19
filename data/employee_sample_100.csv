@@ -1,0 +1,22 @@
+Name,ID,Experience,Education,Job Role,Department,Location,Skills,Certifications,Previous Salary,Departmental Budget,Current CTC,Performance Rating,Internal/External,Market CTC,Company Size,Business Unit,Team Size
+John Doe,1001,3,Bachelor,Data Scientist,Analytics,Bengaluru,Python;ML;SQL,Data Science Cert,850000,980000,900000,4,External,1050000,Startup,AI,5
+Jane Smith,1002,5,Master,Software Engineer,IT,Delhi,Java;Spring;AWS,Cloud Cert,1200000,1300000,1250000,5,Internal,1400000,Mid,Platform,8
+Sam Lee,1003,2,PhD,HR Manager,HR,Mumbai,Excel;Recruitment,HR Cert,600000,700000,650000,3,Internal,750000,Large,HR,3
+Emily Clark,1004,8,Bachelor,Product Manager,Product,Chennai,Agile;Scrum,PMP,1500000,1600000,1550000,5,External,1700000,Mid,Product,10
+Michael Brown,1005,1,Master,DevOps Engineer,Tech,Hyderabad,Docker;AWS,AWS Cert,950000,1000000,980000,4,Internal,1100000,Startup,Tech,4
+Priya Singh,1006,0,Bachelor,Data Scientist,Analytics,Bengaluru,Python;ML;SQL,Data Science Cert,500000,600000,550000,3,External,650000,Startup,AI,2
+Ravi Kumar,1007,6,PhD,Software Engineer,IT,Delhi,Java;Spring;AWS,Cloud Cert,1300000,1400000,1350000,5,Internal,1500000,Large,Platform,12
+Amit Patel,1008,4,Master,HR Manager,HR,Mumbai,Excel;Recruitment,HR Cert,800000,900000,850000,4,Internal,950000,Mid,HR,6
+Neha Gupta,1009,7,Bachelor,Product Manager,Product,Chennai,Agile;Scrum,PMP,1600000,1700000,1650000,5,External,1800000,Large,Product,15
+Rahul Sharma,1010,2,Master,DevOps Engineer,Tech,Hyderabad,Docker;AWS,AWS Cert,1000000,1100000,1050000,3,Internal,1200000,Startup,Tech,5
+Anjali Mehta,1011,5,Bachelor,Data Scientist,Analytics,Bengaluru,Python;ML;SQL,Data Science Cert,900000,950000,920000,4,External,1000000,Mid,AI,7
+Vikram Joshi,1012,3,PhD,Software Engineer,IT,Delhi,Java;Spring;AWS,Cloud Cert,1250000,1300000,1270000,5,Internal,1350000,Large,Platform,9
+Sneha Rao,1013,6,Master,HR Manager,HR,Mumbai,Excel;Recruitment,HR Cert,850000,900000,870000,4,Internal,950000,Mid,HR,8
+Karan Verma,1014,1,Bachelor,Product Manager,Product,Chennai,Agile;Scrum,PMP,1400000,1450000,1420000,3,External,1500000,Startup,Product,3
+Meera Nair,1015,0,Master,DevOps Engineer,Tech,Hyderabad,Docker;AWS,AWS Cert,600000,650000,620000,3,Internal,700000,Startup,Tech,2
+Suresh Reddy,1016,8,Bachelor,Data Scientist,Analytics,Bengaluru,Python;ML;SQL,Data Science Cert,1700000,1800000,1750000,5,External,1900000,Large,AI,18
+Pooja Jain,1017,2,PhD,Software Engineer,IT,Delhi,Java;Spring;AWS,Cloud Cert,1100000,1150000,1120000,4,Internal,1200000,Mid,Platform,6
+Deepak Singh,1018,4,Master,HR Manager,HR,Mumbai,Excel;Recruitment,HR Cert,900000,950000,920000,4,Internal,1000000,Large,HR,10
+Ruchi Agarwal,1019,7,Bachelor,Product Manager,Product,Chennai,Agile;Scrum,PMP,1800000,1900000,1850000,5,External,2000000,Large,Product,20
+Manish Tiwari,1020,3,Master,DevOps Engineer,Tech,Hyderabad,Docker;AWS,AWS Cert,1100000,1200000,1150000,4,Internal,1300000,Mid,Tech,8
+# ... 80 more rows ...
