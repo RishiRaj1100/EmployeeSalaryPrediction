@@ -10,3 +10,4 @@ reportlab
 fpdf
 beautifulsoup4
 selenium
+openpyxl
