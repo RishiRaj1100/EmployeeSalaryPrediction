@@ -1,6 +1,10 @@
 """
 Streamlit app entry point for AI Employee-Based Salary Prediction System.
 """
+
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import streamlit as st
 
 st.title("AI Employee-Based Salary Prediction System")
